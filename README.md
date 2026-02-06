@@ -1,8 +1,7 @@
 <p align="center">I ❤️ developing web applications. <br>I like to challenge myself daily and create projects based on what I learn daily, combining my creativity and willpower. <br><br></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lucasalnascimento&theme=jolly&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=lucasalnascimento&show_icons=true&theme=jolly&layout=compact" />
+<img width=50% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=lucasalnascimento&show_icons=true&theme=jolly&layout=compact" />
  </div>
  
  &nbsp;
